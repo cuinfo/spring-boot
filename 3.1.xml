@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JOBCARD>
+  <SMJC-HEADER/>
+  <CEP MERGED="TRUE" CHAPNBR="53" CHG="R" CONFLTR="A" CONFNBR="00" FUNC="210" KEY="EN53210021080100" PGBLKNBR="06" REVDATE="20190701" SECTNBR="21" SEQ="801" SUBJNBR="00">
+    <EFFECT EFFRG="001999"/>
+    <TITLEC>对FR18和FR38之间从STR26到底部中心线的机身蒙皮外表面进行一般的目视检查，包括蒙皮铰接和...</TITLEC>
+    <TITLE>General Visual Inspection of Fuselage Skin External Surface between FR 18 and FR 38 from STR 26 to bottom Center Line, including Skin Splices and ...</TITLE>
+    <WARNING>
+      <PARAC>在以下区域或靠近以下区域开展工作时，确认安全装置和警告牌已安放就位:</PARAC>
+      <PARA>MAKE SURE THAT THE SAFETY DEVICES AND THE WARNING NOTICES ARE IN POSITION BEFORE YOU START A TASK ON OR NEAR:</PARA>
+      <UNLIST>
+        <UNLITEM>
+          <PARAC>飞控系统</PARAC>
+          <PARA>THE FLIGHT CONTROLS</PARA>
+        </UNLITEM>
+        <UNLITEM>
+          <PARAC>飞控舵面</PARAC>
+          <PARA>THE FLIGHT CONTROL SURFACES</PARA>
+        </UNLITEM>
+        <UNLITEM>
+          <PARAC>起落架和相关的舱门</PARAC>
+          <PARA>THE LANDING GEAR AND THE RELATED DOORS</PARA>
+        </UNLITEM>
+        <UNLITEM>
+          <PARAC>可移动部件。</PARAC>
+          <PARA>COMPONENTS THAT MOVE.</PARA>
+        </UNLITEM>
+      </UNLIST>
+      <PARAC>部件移动会造成人员伤害和/或设备损坏。</PARAC>
+      <PARA>MOVEMENT OF COMPONENTS CAN KILL OR CAUSE INJURY TO PERSONS AND/OR CAN CAUSE DAMAGE TO THE EQUIPMENT.</PARA>
+    </WARNING>
+    <WARNING>
+      <PARAC>在高处工作时，系上安全带并将安全带连接至挂点上。坠落会使你受伤或死亡。</PARAC>
+      <PARA>WEAR AND ATTACH A SAFETY HARNESS WHEN YOU WORK ON HIGH SECTIONS. A FALL CAN KILL OR INJURE YOU.</PARA>
+    </WARNING>
+    <WARNING>
+      <PARAC>使用消耗材料时须小心。遵守厂家说明与当地法规。</PARAC>
+      <PARA>BE CAREFUL WHEN YOU USE CONSUMABLE MATERIALS. OBEY THE MATERIAL MANUFACTURER'S INSTRUCTIONS AND YOUR LOCAL REGULATIONS.</PARA>
+    </WARNING>
+    <ASSODATA>
+      <ZONELST>
+        <ZONE>130</ZONE>
+      </ZONELST>
+    </ASSODATA>
+    <TFMATR>
+      <PRETOPIC>
+        <TITLEC>工作原因</TITLEC>
+        <TITLE>Reason for the Job</TITLE>
+        <PARAC/>
+        <PARA/>
+        <PARAC>
+          <REFEXT REFLOC="532101-01" REFMAN="MPD">参考 MPD TASK: 532101-01</REFEXT>
+        </PARAC>
+        <PARA>
+          <REFEXT REFLOC="532101-01" REFMAN="MPD">Refer to the MPD TASK: 532101-01</REFEXT>
+        </PARA>
+        <PARAC>对FR18和FR38之间从STR26到底部中心线的机身蒙皮外表面进行一般的目视检查，包括蒙皮铰接和搭接头不包括左右机身腹部整流罩</PARAC>
+        <PARA>GENERAL VISUAL INSPECTION OF FUSELAGE SKIN EXTERNAL SURFACE BETWEEN FR 18 AND FR 38 FROM STR 26 TO BOTTOM CENTERLINE, INCLUDING SKIN SPLICES AND LAP JOINTS, EXCLUDING AREAS UNDERNEATH BELLY FAIRING, LH/RH.</PARA>
+        <PARAC/>
+        <PARA/>
+        <NOTE>
+          <PARAC>本任务适用所有飞机。为了解该任务是否适用于本架飞机，可参见 MPD 中的适用性描述和 SRM 介绍部分中的重量变量参数。</PARAC>
+          <PARA>The effectivity of this task is ALL. To know if this task is applicable for your aircraft, refer to the MPD task applicability and the weight variant data given in the SRM introduction.</PARA>
+        </NOTE>
+      </PRETOPIC>
+      <PRETOPIC>
+        <TITLEC>工作准备信息</TITLEC>
+        <TITLE>Job Set-up Information</TITLE>
+        <LIST1>
+          <L1ITEM>
+            <PARAC>固定设备、工具、测试和保障设备</PARAC>
+            <PARA>Fixtures, Tools, Test and Support Equipment</PARA>
+            <TABLE>
+              <TGROUP COLS="3">
+                <COLSPEC COLNAME="COL1" COLWIDTH="22*"/>
+                <COLSPEC COLNAME="COL2" COLWIDTH="4*"/>
+                <COLSPEC COLNAME="COL3" COLWIDTH="53*"/>
+                <SPANSPEC NAMEEND="COL3" NAMEST="COL1" SPANNAME="WHOLE"/>
+                <THEAD>
+                  <ROW>
+                    <ENTRY COLNAME="COL1">
+                      <PARAC>参考</PARAC>
+                      <PARA>REFERENCE</PARA>
+                    </ENTRY>
+                    <ENTRY COLNAME="COL2">
+                      <PARAC>数量</PARAC>
+                      <PARA>QTY</PARA>
+                    </ENTRY>
+                    <ENTRY COLNAME="COL3">
+                      <PARAC>说明</PARAC>
+                      <PARA>DESIGNATION</PARA>
+                    </ENTRY>
+                  </ROW>
+                </THEAD>
+                <TBODY>
+                  <ROW>
+                    <ENTRY COLNAME="COL1">
+                      <PARAC/>
+                      <PARA>No specific</PARA>
+                    </ENTRY>
+                    <ENTRY COLNAME="COL2">
+                      <PARAC/>
+                      <PARA>1</PARA>
+                    </ENTRY>
+                    <ENTRY COLNAME="COL3">
+                      <PARAC>
+                        <STDNAME/>
+                      </PARAC>
+                      <PARA>
+                        <STDNAME>ACCESS PLATFORM 4M (13 FT)-ADJUSTABLE</STDNAME>
+                      </PARA>
+                    </ENTRY>
+                  </ROW>
+                </TBODY>
+              </TGROUP>
+            </TABLE>
+          </L1ITEM>
+          <L1ITEM>
+            <PARAC>消耗材料</PARAC>
+            <PARA>Consumable Materials</PARA>
+            <TABLE>
+              <TGROUP COLS="2">
+                <COLSPEC COLNAME="COL1" COLWIDTH="26*"/>
+                <COLSPEC COLNAME="COL2" COLWIDTH="53*"/>
+                <SPANSPEC NAMEEND="COL2" NAMEST="COL1" SPANNAME="WHOLE"/>
+                <THEAD>
+                  <ROW>
+                    <ENTRY COLNAME="COL1">
+                      <PARAC>参考</PARAC>
+                      <PARA>REFERENCE</PARA>
+                    </ENTRY>
+                    <ENTRY COLNAME="COL2">
+                      <PARAC>说明</PARAC>
+                      <PARA>DESIGNATION</PARA>
+                    </ENTRY>
+                  </ROW>
+                </THEAD>
+                <TBODY>
+                  <ROW>
+                    <ENTRY COLNAME="COL1">
+                      <PARAC>
+                        <CON CONTYPE="AFRM">
+                          <CONNBR/>
+                        </CON>
+                      </PARAC>
+                      <PARA>
+                        <CON CONTYPE="AFRM">
+                          <CONNBR>08BAA9</CONNBR>
+                        </CON>
+                      </PARA>
+                    </ENTRY>
+                    <ENTRY COLNAME="COL2">
+                      <PARAC/>
+                      <PARA>Non Aqueous Cleaner-General - -</PARA>
+                    </ENTRY>
+                  </ROW>
+                  <ROW>
+                    <ENTRY COLNAME="COL1">
+                      <PARAC>
+                        <CON CONTYPE="AFRM">
+                          <CONNBR/>
+                        </CON>
+                      </PARAC>
+                      <PARA>
+                        <CON CONTYPE="AFRM">
+                          <CONNBR>14SBA1</CONNBR>
+                        </CON>
+                      </PARA>
+                    </ENTRY>
+                    <ENTRY COLNAME="COL2">
+                      <PARAC/>
+                      <PARA>Textile-Lint free Cotton -</PARA>
+                    </ENTRY>
+                  </ROW>
+                </TBODY>
+              </TGROUP>
+            </TABLE>
+          </L1ITEM>
+          <L1ITEM>
+            <PARAC>工作区域和接近盖板</PARAC>
+            <PARA>Work Zones and Access Panels</PARA>
+            <TABLE>
+              <TGROUP COLS="2">
+                <COLSPEC COLNAME="COL1" COLWIDTH="26*"/>
+                <COLSPEC COLNAME="COL2" COLWIDTH="53*"/>
+                <SPANSPEC NAMEEND="COL2" NAMEST="COL1" SPANNAME="WHOLE"/>
+                <THEAD>
+                  <ROW>
+                    <ENTRY COLNAME="COL1">
+                      <PARAC>区域/接近</PARAC>
+                      <PARA>ZONE/ACCESS</PARA>
+                    </ENTRY>
+                    <ENTRY COLNAME="COL2">
+                      <PARAC>区域说明</PARAC>
+                      <PARA>ZONE DESCRIPTION</PARA>
+                    </ENTRY>
+                  </ROW>
+                </THEAD>
+                <TBODY>
+                  <ROW>
+                    <ENTRY COLNAME="COL1">
+                      <PARAC>
+                        <ZONE/>
+                      </PARAC>
+                      <PARA>
+                        <ZONE>130</ZONE>
+                      </PARA>
+                    </ENTRY>
+                    <ENTRY COLNAME="COL2">
+                      <PARAC/>
+                      <PARA>LOWER DECK FORWARD CARGO COMPARTMENT</PARA>
+                    </ENTRY>
+                  </ROW>
+                </TBODY>
+              </TGROUP>
+            </TABLE>
+          </L1ITEM>
+        </LIST1>
+      </PRETOPIC>
+    </TFMATR>
+    <TOPIC>
+      <TITLEC>工作准备</TITLEC>
+      <TITLE>Job Set-up</TITLE>
+      <SUBTASK CHAPNBR="53" CHG="U" CONFLTR="A" CONFNBR="00" FUNC="941" KEY="EN53210094105000001" PGBLKNBR="06" REVDATE="20110101" SECTNBR="21" SEQ="050" SUBJNBR="00">
+        <EFFECT EFFRG="001999"/>
+        <LIST1>
+          <L1ITEM>
+            <PARAC>接近</PARAC>
+            <PARA>Get Access</PARA>
+            <LIST2>
+              <L2ITEM>
+                <PARAC>放置
+                  <STDNAME>4M (13 FT) 可调工作平台</STDNAME>在检查区域。
+                </PARAC>
+                <PARA>Put the
+                  <STDNAME>ACCESS PLATFORM 4M (13 FT)-ADJUSTABLE</STDNAME>in position at the inspection area.
+                </PARA>
+              </L2ITEM>
+            </LIST2>
+          </L1ITEM>
+        </LIST1>
+        <SIGNOFF/>
+      </SUBTASK>
+      <SUBTASK CHAPNBR="53" CHG="U" CONFLTR="A" CONFNBR="00" FUNC="110" KEY="EN53210011006400001" PGBLKNBR="06" REVDATE="20150101" SECTNBR="21" SEQ="064" SUBJNBR="00">
+        <EFFECT EFFRG="001999"/>
+        <LIST1>
+          <L1ITEM>
+            <PARAC>检查区域准备</PARAC>
+            <PARA>Preparation of the Inspection Area</PARA>
+            <LIST2>
+              <L2ITEM>
+                <PARAC>确认检查区域表面清洁。</PARAC>
+                <PARA>Make sure that the surface of the inspection area is clean.</PARA>
+              </L2ITEM>
+              <L2ITEM>
+                <WARNING>
+                  <PARAC>在通风良好的工作区域使用溶剂/清洁剂,密封胶及其它特殊材料。</PARAC>
+                  <PARA>USE SOLVENTS/CLEANING AGENTS, SEALANTS AND OTHER SPECIAL MATERIALS ONLY WITH A GOOD FLOW OF AIR THROUGH THE WORK AREA.</PARA>
+                  <PARAC>这些材料是有毒的,易燃的,对皮肤有刺激性的。</PARAC>
+                  <PARA>THESE MATERIALS ARE POISONOUS AND FLAMMABLE AND SKIN IRRITANTS.</PARA>
+                  <PARAC>遵守厂家说明。</PARAC>
+                  <PARA>OBEY THE MANUFACTURERS INSTRUCTIONS.</PARA>
+                  <PARAC>穿上防护服。</PARAC>
+                  <PARA>PUT ON PROTECTIVE CLOTHING.</PARA>
+                  <PARAC>不要进入嘴中。</PARAC>
+                  <PARA>DO NOT GET THEM IN YOUR MOUTH.</PARA>
+                  <PARAC>不要吸烟。</PARAC>
+                  <PARA>DO NOT SMOKE.</PARA>
+                  <PARAC>不要吸入毒气。</PARAC>
+                  <PARA>DO NOT BREATHE THE GAS.</PARA>
+                  <PARAC>如果皮肤或眼睛受到刺激,立即就医。</PARAC>
+                  <PARA>GET MEDICAL HELP IF YOUR SKIN OR EYES BECOME IRRITATED.</PARA>
+                </WARNING>
+                <PARAC>如达不到检查要求,进行清洁，使用
+                  <CON CONTYPE="AFRM">
+                    <CONNBR>08BAA9</CONNBR>
+                    <CONNAME>通用无水清洁剂</CONNAME>
+                  </CON>和
+                  <CON CONTYPE="AFRM">
+                    <CONNBR>14SBA1</CONNBR>
+                    <CONNAME>无纺布</CONNAME>
+                  </CON>。
+                </PARAC>
+                <PARA>If necessary, clean the inspection area with the
+                  <CON CONTYPE="AFRM">
+                    <CONNBR>08BAA9</CONNBR>
+                    <CONNAME>Non Aqueous Cleaner-General - -</CONNAME>
+                  </CON>and a lint-free cotton cloth
+                  <CON CONTYPE="AFRM">
+                    <CONNBR>14SBA1</CONNBR>
+                    <CONNAME>Textile-Lint free Cotton -</CONNAME>
+                  </CON>.
+                </PARA>
+              </L2ITEM>
+            </LIST2>
+          </L1ITEM>
+        </LIST1>
+        <SIGNOFF/>
+      </SUBTASK>
+    </TOPIC>
+    <TOPIC>
+      <TITLEC>工作步骤</TITLEC>
+      <TITLE>Procedure</TITLE>
+      <GRPHCREF REFID="EN53210099101800001" SHOWNOW="0">
+        <EFFECT EFFRG="001999"/>Inspection Area of the Fuselage Skin Panels FR18 to FR38
+      </GRPHCREF>
+      <SUBTASK CHAPNBR="53" CHG="U" CONFLTR="A" CONFNBR="00" FUNC="210" KEY="EN53210021006400001" PGBLKNBR="06" REVDATE="20180701" SECTNBR="21" SEQ="064" SUBJNBR="00">
+        <EFFECT EFFRG="001999"/>
+        <LIST1>
+          <L1ITEM>
+            <PARAC>一般目视检查程序</PARAC>
+            <PARA>General Visual Inspection Procedure</PARA>
+            <LIST2>
+              <L2ITEM>
+                <PARAC>对FR18和FR38底部机身蒙皮外表面进行一般目视检查。从STGR26左侧到STGR2右侧，包括铰接和搭接接头。 不用检查左右机身腹部整流罩下部蒙皮。</PARAC>
+                <PARA>Do a general visual inspection of the external surface of the bottom fuselage skin between FR18 and FR38. Do this from STGR26 left side to STGR26 right side, including the skin splices and the lap joints. Do not examine the skin area behind the belly fairing, left and right sides.</PARA>
+              </L2ITEM>
+              <L2ITEM>
+                <PARAC>查看有无腐蚀,裂纹和其他类型的损坏。</PARAC>
+                <PARA>Look for corrosion, cracks and other types of damage.</PARA>
+              </L2ITEM>
+              <L2ITEM>
+                <PARAC>如发现损伤:</PARAC>
+                <PARA>If you find damage:</PARA>
+                <LIST3>
+                  <L3ITEM>
+                    <PARAC>参照结构修理手册
+                      <REFEXT REFLOC="511100" REFMAN="SRM">SRM 511100</REFEXT>确定损伤的分类。
+                    </PARAC>
+                    <PARA>Refer to the Structural Repair Manual
+                      <REFEXT REFLOC="511100" REFMAN="SRM">SRM 511100</REFEXT>for the classification of the damage.
+                    </PARA>
+                  </L3ITEM>
+                  <L3ITEM>
+                    <PARAC>如发现腐蚀损伤:</PARAC>
+                    <PARA>If you find corrosion damage:</PARA>
+                    <UNLIST BULLTYPE="BULLET">
+                      <UNLITEM>
+                        <PARAC>参照结构修理手册
+                          <REFEXT REFLOC="512200" REFMAN="SRM">SRM 512200</REFEXT>查找一般腐蚀数据
+                        </PARAC>
+                        <PARA>refer to the Structural Repair Manual
+                          <REFEXT REFLOC="512200" REFMAN="SRM">SRM 512200</REFEXT>for the general corrosion data
+                        </PARA>
+                      </UNLITEM>
+                      <UNLITEM>
+                        <PARAC>参照结构修理手册
+                          <REFEXT REFLOC="51740000" REFMAN="SRM">SRM 51740000</REFEXT>查找腐蚀区域的修理措施。
+                        </PARAC>
+                        <PARA>refer to the Structural Repair Manual
+                          <REFEXT REFLOC="51740000" REFMAN="SRM">SRM 51740000</REFEXT>for the repair of the corroded areas.
+                        </PARA>
+                      </UNLITEM>
+                    </UNLIST>
+                  </L3ITEM>
+                  <L3ITEM>
+                    <PARAC>如发现其他类型的损伤:</PARAC>
+                    <PARA>If you find other types of damage:</PARA>
+                    <UNLIST BULLTYPE="BULLET">
+                      <UNLITEM>
+                        <PARAC>参照结构修理手册
+                          <REFEXT REFLOC="51730000" REFMAN="SRM">SRM 51730000</REFEXT>查找轻微损伤的修复措施。
+                        </PARAC>
+                        <PARA>refer to the Structural Repair Manual
+                          <REFEXT REFLOC="51730000" REFMAN="SRM">SRM 51730000</REFEXT>for the repair of the minor damage
+                        </PARA>
+                      </UNLITEM>
+                      <UNLITEM>
+                        <PARAC>参照结构修理手册
+                          <REFEXT REFLOC="53211101" REFMAN="SRM">SRM 53211101</REFEXT>查出此结构的损伤容限。
+                        </PARAC>
+                        <PARA>refer to the Structural Repair Manual
+                          <REFEXT REFLOC="53211101" REFMAN="SRM">SRM 53211101</REFEXT>for the allowable damage limits for this structure
+                        </PARA>
+                      </UNLITEM>
+                      <UNLITEM>
+                        <PARAC>参照结构修理手册
+                          <REFEXT REFLOC="53211102" REFMAN="SRM">SRM 53211102</REFEXT>查出此结构的修理数据。
+                        </PARAC>
+                        <PARA>refer to the Structural Repair Manual
+                          <REFEXT REFLOC="53211102" REFMAN="SRM">SRM 53211102</REFEXT>for the repair data for this structure.
+                        </PARA>
+                      </UNLITEM>
+                    </UNLIST>
+                  </L3ITEM>
+                </LIST3>
+              </L2ITEM>
+            </LIST2>
+            <RECORD-LINE>
+              <PARAC>记录检查结果:</PARAC>
+              <PARA>Result:</PARA>
+              <RECORD MANDATORY="Y" MULTI="N"/>
+            </RECORD-LINE>
+          </L1ITEM>
+        </LIST1>
+        <SIGNOFF/>
+      </SUBTASK>
+    </TOPIC>
+    <TOPIC>
+      <TITLEC>关闭</TITLEC>
+      <TITLE>Close-up</TITLE>
+      <SUBTASK CHAPNBR="53" CHG="U" CONFLTR="A" CONFNBR="00" FUNC="942" KEY="EN53210094205200001" PGBLKNBR="06" REVDATE="20100701" SECTNBR="21" SEQ="052" SUBJNBR="00">
+        <EFFECT EFFRG="001999"/>
+        <LIST1>
+          <L1ITEM>
+            <PARAC>关闭接近</PARAC>
+            <PARA>Close Access</PARA>
+            <LIST2>
+              <L2ITEM>
+                <PARAC>确认工作区域干净清洁无工具设备和其他杂物。</PARAC>
+                <PARA>Make sure that the work area is clean and clear of tools and other items.</PARA>
+              </L2ITEM>
+              <L2ITEM>
+                <PARAC>撤离工作平台。</PARAC>
+                <PARA>Remove the access platform(s).</PARA>
+              </L2ITEM>
+            </LIST2>
+          </L1ITEM>
+        </LIST1>
+        <SIGNOFF/>
+      </SUBTASK>
+    </TOPIC>
+    <GRAPHIC CHAPNBR="53" CHG="U" CONFLTR="A" CONFNBR="00" FUNC="991" KEY="EN53210099101800001" PGBLKNBR="06" REVDATE="20100701" SECTNBR="21" SEQ="01800" SUBJNBR="00">
+      <EFFECT EFFRG="001999"/>
+      <TITLE>Inspection Area of the Fuselage Skin Panels FR18 to FR38</TITLE>
+      <SHEET CFNBR="C_F_MM_532100_6_BAM0_01_00" CHG="U" GNBR="f_mm_532100_6_bam0_01_00" IMGAREA="AP" KEY="EN53210099101800001_BAM001" REVDATE="20100701" SHEETNBR="1">
+        <EFFECT EFFRG="001999"/>
+        <TITLE>Inspection Area of the Fuselage Skin Panels FR18 to FR38</TITLE>
+      </SHEET>
+    </GRAPHIC>
+  </CEP>
+</JOBCARD>
